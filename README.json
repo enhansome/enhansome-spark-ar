@@ -1,0 +1,278 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "What-Am-I-Randomizer Filter",
+          "description": "This repository includes examples of What Am I\" or \"Which _____ Am I\" or \"What _______ Are You\" filters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-04T13:53:08Z",
+            "owner": "SparkAR-Resources",
+            "repo": "SparkAR-What-Am-I-Randomizer-Filter",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Old Official Templates Updated for v85",
+          "description": "v85 had a breaking change making some of the old official templates not work. This contains these templates updated for latest API including neck bending, joint handeling, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-23T00:38:03Z",
+            "owner": "Spark-AR-Community",
+            "repo": "SparkAR-v85-Templates",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Black Lives Matter",
+          "description": "A template to be used and shared in support of the silence of racism and specifically highlighting, supporting, and uplifting the lives of people of color around the world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-02T16:58:13Z",
+            "owner": "SparkAR-Resources",
+            "repo": "SparkAR-Black-Lives-Matter",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GalleryTexture",
+          "description": "A boilerplate for new users or non-scripters to start using Spark AR's Gallery Texture feature for their Instagram effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-14T13:53:19Z",
+            "owner": "SparkAR-Resources",
+            "repo": "SparkAR-GalleryTexture",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Native UI Slider",
+          "description": "A boilerplate for new users or non-scripters to start using Spark AR's NativeUI Slider for their effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-09T12:01:14Z",
+            "owner": "SparkAR-Resources",
+            "repo": "SparkAR-NativeUI-Slider-v85",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Example Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Patches"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lut Patch",
+          "description": "Color adjustment patches for Spark AR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-16T22:21:51Z",
+            "owner": "positlabs",
+            "repo": "spark-lut-patch",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convolution",
+          "description": "Convolution and other super-patches (blur, sharpen).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-22T19:36:36Z",
+            "owner": "positlabs",
+            "repo": "spark-convolution-patch",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selective Color",
+          "description": "Allows for the editing of specific hues separately.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-26T12:36:24Z",
+            "owner": "tomaspietravallo",
+            "repo": "Spark-AR",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fit2Screen",
+          "description": "Scale a plane to fit the screen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-09T20:59:14Z",
+            "owner": "positlabs",
+            "repo": "spark-fit2screen",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fit2Rect",
+          "description": "Fit any texture into a rectangle of any size.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-20T21:30:10Z",
+            "owner": "positlabs",
+            "repo": "spark-fit2rect",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Free Patches"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spark AR Snippets",
+          "description": "A collection of useful code snippets that have been shared in the Spark AR Community Facebook group.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-12T22:34:29Z",
+            "owner": "Spark-AR-Community",
+            "repo": "SparkAR-Snippets",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gradient Step to Easily Create Color Ramps",
+          "description": "Create gradients with the a similar theory used in Photoshop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-12T22:34:29Z",
+            "owner": "Spark-AR-Community",
+            "repo": "SparkAR-Snippets",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PFTween",
+          "description": "A wrapped Spark AR animation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-22T12:31:29Z",
+            "owner": "pofulu",
+            "repo": "sparkar-pftween",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Particle",
+          "description": "A wrapped tool for controlling emitters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-18T16:36:08Z",
+            "owner": "pofulu",
+            "repo": "sparkar-particle",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FilterSettings",
+          "description": "A wrapper for controlling multiple settings with a slider in SparkAR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-26T13:03:11Z",
+            "owner": "data-sapiens",
+            "repo": "SparkAR-FilterSettings",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AssetsLoader",
+          "description": "Helper function for loading objects, materials, and textures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-02T20:05:33Z",
+            "owner": "data-sapiens",
+            "repo": "SparkAR-AssetsLoader",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Get Texture Based On User Language",
+          "description": "Use different textures based on the user's language preferences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-01T17:45:01Z",
+            "owner": "Spark-AR-Developers",
+            "repo": "snippets",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Scripts"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:02.556Z",
+    "original_repository": "Spark-AR-Community/awesome-spark-ar",
+    "original_repository_sha": "b5c3afed8a126a8a5366e82df2419b5fb0d6cb66",
+    "enhanced_repository": "enhansome/enhansome-spark-ar",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Spark-AR with stars"
+  }
+}
