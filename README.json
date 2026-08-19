@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Learning"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252782750,
             "language": "JavaScript",
             "last_commit": "2020-04-04T13:53:08Z",
             "owner": "SparkAR-Resources",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252987619,
             "language": "JavaScript",
             "last_commit": "2020-07-23T00:38:03Z",
             "owner": "Spark-AR-Community",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268111875,
             "language": "JavaScript",
             "last_commit": "2020-06-02T16:58:13Z",
             "owner": "SparkAR-Resources",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263927658,
             "language": "JavaScript",
             "last_commit": "2020-05-14T13:53:19Z",
             "owner": "SparkAR-Resources",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252576947,
             "language": "JavaScript",
             "last_commit": "2020-04-09T12:01:14Z",
             "owner": "SparkAR-Resources",
@@ -82,88 +82,95 @@
       "title": "Example Projects"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lut Patch",
+              "description": "Color adjustment patches for Spark AR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188458760,
+                "language": null,
+                "last_commit": "2020-11-16T22:21:51Z",
+                "owner": "positlabs",
+                "repo": "spark-lut-patch",
+                "stars": 263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Convolution",
+              "description": "Convolution and other super-patches (blur, sharpen).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189585548,
+                "language": null,
+                "last_commit": "2020-12-22T19:36:36Z",
+                "owner": "positlabs",
+                "repo": "spark-convolution-patch",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Selective Color",
+              "description": "Allows for the editing of specific hues separately.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251184752,
+                "language": "JavaScript",
+                "last_commit": "2020-11-26T12:36:24Z",
+                "owner": "tomaspietravallo",
+                "repo": "Spark-AR",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fit2Screen",
+              "description": "Scale a plane to fit the screen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193142023,
+                "language": null,
+                "last_commit": "2021-03-09T20:59:14Z",
+                "owner": "positlabs",
+                "repo": "spark-fit2screen",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fit2Rect",
+              "description": "Fit any texture into a rectangle of any size.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247790763,
+                "language": null,
+                "last_commit": "2023-01-20T21:30:10Z",
+                "owner": "positlabs",
+                "repo": "spark-fit2rect",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Free Patches"
+        }
+      ],
       "title": "Patches"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Lut Patch",
-          "description": "Color adjustment patches for Spark AR.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-11-16T22:21:51Z",
-            "owner": "positlabs",
-            "repo": "spark-lut-patch",
-            "stars": 263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Convolution",
-          "description": "Convolution and other super-patches (blur, sharpen).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-12-22T19:36:36Z",
-            "owner": "positlabs",
-            "repo": "spark-convolution-patch",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Selective Color",
-          "description": "Allows for the editing of specific hues separately.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-11-26T12:36:24Z",
-            "owner": "tomaspietravallo",
-            "repo": "Spark-AR",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fit2Screen",
-          "description": "Scale a plane to fit the screen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-03-09T20:59:14Z",
-            "owner": "positlabs",
-            "repo": "spark-fit2screen",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fit2Rect",
-          "description": "Fit any texture into a rectangle of any size.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-20T21:30:10Z",
-            "owner": "positlabs",
-            "repo": "spark-fit2rect",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Free Patches"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -172,6 +179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254050627,
             "language": "JavaScript",
             "last_commit": "2023-07-12T22:34:29Z",
             "owner": "Spark-AR-Community",
@@ -186,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254050627,
             "language": "JavaScript",
             "last_commit": "2023-07-12T22:34:29Z",
             "owner": "Spark-AR-Community",
@@ -200,6 +209,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254801750,
             "language": "TypeScript",
             "last_commit": "2022-05-22T12:31:29Z",
             "owner": "pofulu",
@@ -214,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255231462,
             "language": "JavaScript",
             "last_commit": "2020-05-18T16:36:08Z",
             "owner": "pofulu",
@@ -228,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239143254,
             "language": "JavaScript",
             "last_commit": "2020-09-26T13:03:11Z",
             "owner": "data-sapiens",
@@ -242,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251664374,
             "language": "JavaScript",
             "last_commit": "2020-04-02T20:05:33Z",
             "owner": "data-sapiens",
@@ -256,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262602513,
             "language": null,
             "last_commit": "2020-05-01T17:45:01Z",
             "owner": "Spark-AR-Developers",
@@ -268,8 +282,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:44:45.075Z",
+    "last_updated": "2026-08-19T12:51:06.095Z",
     "original_repository": "Spark-AR-Community/awesome-spark-ar",
+    "original_repository_id": 260457451,
     "original_repository_sha": "b5c3afed8a126a8a5366e82df2419b5fb0d6cb66",
     "enhanced_repository": "enhansome/enhansome-spark-ar",
     "enhanced_repository_description": null,
