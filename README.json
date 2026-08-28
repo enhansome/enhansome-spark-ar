@@ -16,7 +16,8 @@
             "owner": "SparkAR-Resources",
             "repo": "SparkAR-What-Am-I-Randomizer-Filter",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Spark-AR-Community",
             "repo": "SparkAR-v85-Templates",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "SparkAR-Resources",
             "repo": "SparkAR-Black-Lives-Matter",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "SparkAR-Resources",
             "repo": "SparkAR-GalleryTexture",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "SparkAR-Resources",
             "repo": "SparkAR-NativeUI-Slider-v85",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         }
       ],
       "title": "Example Projects"
@@ -99,7 +104,8 @@
                 "owner": "positlabs",
                 "repo": "spark-lut-patch",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T23:31:28.463Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "positlabs",
                 "repo": "spark-convolution-patch",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T23:31:28.463Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "tomaspietravallo",
                 "repo": "Spark-AR",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T23:31:28.463Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "positlabs",
                 "repo": "spark-fit2screen",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:31:28.463Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "positlabs",
                 "repo": "spark-fit2rect",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:31:28.463Z"
             }
           ],
           "description": null,
@@ -185,7 +195,8 @@
             "owner": "Spark-AR-Community",
             "repo": "SparkAR-Snippets",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "Spark-AR-Community",
             "repo": "SparkAR-Snippets",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         },
         {
           "node_type": "item",
@@ -215,7 +227,8 @@
             "owner": "pofulu",
             "repo": "sparkar-pftween",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         },
         {
           "node_type": "item",
@@ -230,7 +243,8 @@
             "owner": "pofulu",
             "repo": "sparkar-particle",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         },
         {
           "node_type": "item",
@@ -245,7 +259,8 @@
             "owner": "data-sapiens",
             "repo": "SparkAR-FilterSettings",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         },
         {
           "node_type": "item",
@@ -260,7 +275,8 @@
             "owner": "data-sapiens",
             "repo": "SparkAR-AssetsLoader",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         },
         {
           "node_type": "item",
@@ -275,14 +291,15 @@
             "owner": "Spark-AR-Developers",
             "repo": "snippets",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:31:28.463Z"
         }
       ],
       "title": "Scripts"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:44:40.742Z",
+    "last_updated": "2026-08-28T23:31:28.463Z",
     "original_repository_info": {
       "archived": false,
       "id": 260457451,
