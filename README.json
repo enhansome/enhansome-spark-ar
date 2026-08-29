@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "These projects are provided as examples of the \"What Am I\" or \"Which _____ Am I\" or \"What _______ Are You\" filters on Instagram.",
+            "homepage": null,
             "id": 252782750,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-04-04T13:53:08Z",
+            "open_issues": 0,
             "owner": "SparkAR-Resources",
             "repo": "SparkAR-What-Am-I-Randomizer-Filter",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "arstudio",
+              "demo",
+              "filter",
+              "instagram",
+              "random",
+              "spark",
+              "sparkar"
+            ]
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         },
@@ -26,12 +39,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Default Spark AR v85 compliant templates.",
+            "homepage": null,
             "id": 252987619,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-23T00:38:03Z",
+            "open_issues": 0,
             "owner": "Spark-AR-Community",
             "repo": "SparkAR-v85-Templates",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "sparkar"
+            ]
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template to be used and shared in support of the silence of racism and specifically highlighting, supporting, and uplifting the lives of people of color around the world.",
+            "homepage": null,
             "id": 268111875,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-02T16:58:13Z",
+            "open_issues": 0,
             "owner": "SparkAR-Resources",
             "repo": "SparkAR-Black-Lives-Matter",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         },
@@ -58,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 263927658,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-05-14T13:53:19Z",
+            "open_issues": 0,
             "owner": "SparkAR-Resources",
             "repo": "SparkAR-GalleryTexture",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         },
@@ -74,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 252576947,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-04-09T12:01:14Z",
+            "open_issues": 0,
             "owner": "SparkAR-Resources",
             "repo": "SparkAR-NativeUI-Slider-v85",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         }
@@ -98,12 +133,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spark AR patch for applying color lookup tables (LUTs)",
+                "homepage": "https://positlabs.github.io/spark-lut-patch/",
                 "id": 188458760,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-11-16T22:21:51Z",
+                "open_issues": 1,
                 "owner": "positlabs",
                 "repo": "spark-lut-patch",
-                "stars": 263
+                "stars": 263,
+                "topics": [
+                  "lut-textures",
+                  "spark-ar",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T23:31:28.463Z"
             },
@@ -114,12 +158,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convolution and other super-patches (blur, sharpen)",
+                "homepage": null,
                 "id": 189585548,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-12-22T19:36:36Z",
+                "open_issues": 0,
                 "owner": "positlabs",
                 "repo": "spark-convolution-patch",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "blur",
+                  "convolution",
+                  "edge-detection",
+                  "image-processing",
+                  "sharpen",
+                  "spark-ar"
+                ]
               },
               "first_seen": "2026-08-28T23:31:28.463Z"
             },
@@ -130,12 +186,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of useful scripts/assets I've used on Meta Spark - Instagram",
+                "homepage": null,
                 "id": 251184752,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2020-11-26T12:36:24Z",
+                "open_issues": 0,
                 "owner": "tomaspietravallo",
                 "repo": "Spark-AR",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "instagram-filters",
+                  "spark-ar",
+                  "spark-ar-studio"
+                ]
               },
               "first_seen": "2026-08-28T23:31:28.463Z"
             },
@@ -146,12 +211,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scale a plane to fit the screen in Spark AR Studio",
+                "homepage": null,
                 "id": 193142023,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-03-09T20:59:14Z",
+                "open_issues": 0,
                 "owner": "positlabs",
                 "repo": "spark-fit2screen",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "patch",
+                  "plane",
+                  "spark-ar"
+                ]
               },
               "first_seen": "2026-08-28T23:31:28.463Z"
             },
@@ -162,12 +236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fit any texture into a rectangle of any size.",
+                "homepage": null,
                 "id": 247790763,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-01-20T21:30:10Z",
+                "open_issues": 1,
                 "owner": "positlabs",
                 "repo": "spark-fit2rect",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:28.463Z"
             }
@@ -189,12 +268,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of code snippets gathered from the Spark AR Community group. ",
+            "homepage": null,
             "id": 254050627,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-12T22:34:29Z",
+            "open_issues": 2,
             "owner": "Spark-AR-Community",
             "repo": "SparkAR-Snippets",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "sparkar"
+            ]
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         },
@@ -205,12 +291,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of code snippets gathered from the Spark AR Community group. ",
+            "homepage": null,
             "id": 254050627,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-12T22:34:29Z",
+            "open_issues": 2,
             "owner": "Spark-AR-Community",
             "repo": "SparkAR-Snippets",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "sparkar"
+            ]
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         },
@@ -221,12 +314,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tween library for Meta Spark Studio (Spark AR).",
+            "homepage": "https://www.npmjs.com/package/sparkar-pftween",
             "id": 254801750,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-05-22T12:31:29Z",
+            "open_issues": 0,
             "owner": "pofulu",
             "repo": "sparkar-pftween",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "animation",
+              "ease",
+              "spark-ar",
+              "spark-ar-creators",
+              "spark-ar-studio",
+              "sparkar",
+              "tween"
+            ]
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         },
@@ -237,12 +343,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wrapped tool for controlling emitters in Spark AR.",
+            "homepage": "https://www.npmjs.com/package/sparkar-particle",
             "id": 255231462,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-05-18T16:36:08Z",
+            "open_issues": 0,
             "owner": "pofulu",
             "repo": "sparkar-particle",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "emitter",
+              "particle",
+              "spark-ar",
+              "spark-ar-creators",
+              "spark-ar-studio",
+              "sparkar"
+            ]
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         },
@@ -253,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wrapper for controlling multiple settings with a slider in SparkAR",
+            "homepage": null,
             "id": 239143254,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-09-26T13:03:11Z",
+            "open_issues": 1,
             "owner": "data-sapiens",
             "repo": "SparkAR-FilterSettings",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         },
@@ -269,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helper function for loading objects, materials, and textures in Spark AR Studio v85+",
+            "homepage": null,
             "id": 251664374,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-04-02T20:05:33Z",
+            "open_issues": 0,
             "owner": "data-sapiens",
             "repo": "SparkAR-AssetsLoader",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         },
@@ -285,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of code snippets gathered from the Spark AR Community group. ",
+            "homepage": null,
             "id": 262602513,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-01T17:45:01Z",
+            "open_issues": 0,
             "owner": "Spark-AR-Developers",
             "repo": "snippets",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:28.463Z"
         }
@@ -299,15 +432,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:28.463Z",
+    "last_updated": "2026-08-29T04:58:19.390Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Spark AR resources, assets, and more.",
+      "homepage": null,
       "id": 260457451,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-06-14T09:26:09Z",
+      "open_issues": 1,
       "owner": "Spark-AR-Community",
       "repo": "awesome-spark-ar",
-      "stars": 157
+      "stars": 157,
+      "topics": [
+        "ar",
+        "augumented-reality",
+        "awesome",
+        "awesome-list",
+        "spark-ar",
+        "spark-ar-creators",
+        "spark-ar-studio"
+      ]
     },
     "original_repository_sha": "b5c3afed8a126a8a5366e82df2419b5fb0d6cb66",
     "enhanced_repository": "enhansome/enhansome-spark-ar",
