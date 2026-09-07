@@ -60,10 +60,10 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 ### Free Patches
 
 * [Lut Patch](https://github.com/positlabs/spark-lut-patch/blob/master/README.md) ⭐ 263 | 🐛 1 | 📅 2020-11-16 - Color adjustment patches for Spark AR.
-* [Convolution](https://github.com/positlabs/spark-convolution-patch) ⭐ 79 | 🐛 0 | 📅 2020-12-22 - Convolution and other super-patches (blur, sharpen).
+* [Convolution](https://github.com/positlabs/spark-convolution-patch) ⭐ 78 | 🐛 0 | 📅 2020-12-22 - Convolution and other super-patches (blur, sharpen).
 * [Selective Color](https://github.com/tomaspietravallo/Spark-AR/tree/master/Selective%20Color) ⭐ 61 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-26 - Allows for the editing of specific hues separately.
 * [Fit2Screen](https://github.com/positlabs/spark-fit2screen) ⭐ 28 | 🐛 0 | 📅 2021-03-09 - Scale a plane to fit the screen.
-* [Fit2Rect](https://github.com/positlabs/spark-fit2rect) ⭐ 26 | 🐛 1 | 📅 2023-01-20 - Fit any texture into a rectangle of any size.
+* [Fit2Rect](https://github.com/positlabs/spark-fit2rect) ⭐ 25 | 🐛 1 | 📅 2023-01-20 - Fit any texture into a rectangle of any size.
 * [Easy Gradient](https://gumroad.com/l/yYREv) - Create multi-dimensional gradients in the patch editor. 
 
 ### Paid Patches
@@ -88,4 +88,4 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
