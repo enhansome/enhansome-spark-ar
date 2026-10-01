@@ -2,7 +2,7 @@
 
 A categorized community-driven collection of awesome Spark AR resources, assets, projects, and resources. [Spark AR](https://sparkar.facebook.com/ar-studio/) is an augmented reality platform for Mac & Windows that allows you to create AR effects for Instagram and Facebook. Free assets and resources are prioritized over paid when possible.
 
-Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/Spark-AR-Community/awesome-spark-ar/blob/master/CONTRIBUTING.md) ⭐ 157 | 🐛 1 | 📅 2020-06-14 for more information before submitting a pull request.
+Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/Spark-AR-Community/awesome-spark-ar/blob/master/CONTRIBUTING.md) ⭐ 156 | 🐛 1 | 📅 2020-06-14 for more information before submitting a pull request.
 
 ## Content
 
@@ -72,8 +72,8 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ## Scripts
 
-* [Spark AR Snippets](https://github.com/Spark-AR-Community/SparkAR-Snippets) ⭐ 115 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-12 - A collection of useful code snippets that have been shared in the Spark AR Community Facebook group.
-* [Gradient Step to Easily Create Color Ramps](https://github.com/Spark-AR-Community/SparkAR-Snippets/blob/master/gradientStep.js) ⭐ 115 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-12 - Create gradients with the a similar theory used in Photoshop.
+* [Spark AR Snippets](https://github.com/Spark-AR-Community/SparkAR-Snippets) ⭐ 114 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-12 - A collection of useful code snippets that have been shared in the Spark AR Community Facebook group.
+* [Gradient Step to Easily Create Color Ramps](https://github.com/Spark-AR-Community/SparkAR-Snippets/blob/master/gradientStep.js) ⭐ 114 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-12 - Create gradients with the a similar theory used in Photoshop.
 * [PFTween](https://github.com/pofulu/sparkar-pftween) ⭐ 62 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-22 - A wrapped Spark AR animation tool.
 * [Particle](https://github.com/pofulu/sparkar-particle) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2020-05-18 - A wrapped tool for controlling emitters.
 * [FilterSettings](https://github.com/data-sapiens/SparkAR-FilterSettings) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2020-09-26 - A wrapper for controlling multiple settings with a slider in SparkAR.
@@ -88,4 +88,4 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

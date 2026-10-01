@@ -277,7 +277,7 @@
             "open_issues": 2,
             "owner": "Spark-AR-Community",
             "repo": "SparkAR-Snippets",
-            "stars": 115,
+            "stars": 114,
             "topics": [
               "sparkar"
             ]
@@ -300,7 +300,7 @@
             "open_issues": 2,
             "owner": "Spark-AR-Community",
             "repo": "SparkAR-Snippets",
-            "stars": 115,
+            "stars": 114,
             "topics": [
               "sparkar"
             ]
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:07:42.124Z",
+    "last_updated": "2026-10-01T19:27:23.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Spark AR resources, assets, and more.",
@@ -444,7 +444,7 @@
       "open_issues": 1,
       "owner": "Spark-AR-Community",
       "repo": "awesome-spark-ar",
-      "stars": 157,
+      "stars": 156,
       "topics": [
         "ar",
         "augumented-reality",
