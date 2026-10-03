@@ -2,7 +2,7 @@
 
 A categorized community-driven collection of awesome Spark AR resources, assets, projects, and resources. [Spark AR](https://sparkar.facebook.com/ar-studio/) is an augmented reality platform for Mac & Windows that allows you to create AR effects for Instagram and Facebook. Free assets and resources are prioritized over paid when possible.
 
-Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/Spark-AR-Community/awesome-spark-ar/blob/master/CONTRIBUTING.md) ⭐ 156 | 🐛 1 | 📅 2020-06-14 for more information before submitting a pull request.
+Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/Spark-AR-Community/awesome-spark-ar/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 
 ## Content
 
@@ -88,4 +88,4 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
