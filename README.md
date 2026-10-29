@@ -59,7 +59,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ### Free Patches
 
-* [Lut Patch](https://github.com/positlabs/spark-lut-patch/blob/master/README.md) ⭐ 263 | 🐛 1 | 📅 2020-11-16 - Color adjustment patches for Spark AR.
+* [Lut Patch](https://github.com/positlabs/spark-lut-patch/blob/master/README.md) ⭐ 262 | 🐛 1 | 📅 2020-11-16 - Color adjustment patches for Spark AR.
 * [Convolution](https://github.com/positlabs/spark-convolution-patch) ⭐ 78 | 🐛 0 | 📅 2020-12-22 - Convolution and other super-patches (blur, sharpen).
 * [Selective Color](https://github.com/tomaspietravallo/Spark-AR/tree/master/Selective%20Color) ⭐ 60 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-26 - Allows for the editing of specific hues separately.
 * [Fit2Screen](https://github.com/positlabs/spark-fit2screen) ⭐ 28 | 🐛 0 | 📅 2021-03-09 - Scale a plane to fit the screen.
@@ -88,4 +88,4 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

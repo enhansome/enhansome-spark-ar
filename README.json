@@ -142,7 +142,7 @@
                 "open_issues": 1,
                 "owner": "positlabs",
                 "repo": "spark-lut-patch",
-                "stars": 263,
+                "stars": 262,
                 "topics": [
                   "lut-textures",
                   "spark-ar",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:27:53.770Z",
+    "last_updated": "2026-10-29T19:31:57.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Spark AR resources, assets, and more.",
